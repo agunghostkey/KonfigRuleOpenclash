@@ -1,5 +1,5 @@
 payload:
-  # Rule Sosmed HostkeyWRT TES
+  # Rule Sosmed HostkeyWRT
   # Instagram
   - DOMAIN-SUFFIX,cdninstagram.com
   - DOMAIN-SUFFIX,instagram.com
